@@ -1,0 +1,60 @@
+Description - Get all product categories 
+API endpoint - {ROOT_URL}/api/product/category 
+Method - GET 
+Description - Store product category 
+API endpoint - {ROOT_URL}/api/product/category 
+Method - POST 
+Description - Get single product category 
+API endpoint - {ROOT_URL}/api/product/category/{id} 
+Method - GET
+Description - Update product category 
+API endpoint - {ROOT_URL}/api/product/category/{id} 
+Method - PUT
+Description - Delete product category 
+API endpoint - {ROOT_URL}/api/product/category/{id} 
+Method - DELETE
+Description - Get all service categories 
+API endpoint - {ROOT_URL}/api/service/category 
+Method - GET 
+Description - Store service category request 
+API endpoint - {ROOT_URL}/api/service/category 
+Method - POST 
+Description - Get specific service category 
+API endpoint - {ROOT_URL}/api/service/category/{id} 
+Method - GET
+Description - Update specific service category 
+API endpoint - {ROOT_URL}/api/service/category/{id} 
+Method - PUT
+Description - Delete specific service category 
+API endpoint - {ROOT_URL}/api/service/category/{id} 
+Method - DELETE
+Description - Get all products 
+API endpoint - {ROOT_URL}/api/product 
+Method - GET 
+Description - Store product 
+API endpoint - {ROOT_URL}/api/product 
+Method - POST 
+Description - Get specific product 
+API endpoint - {ROOT_URL}/api/product/{id} 
+Method - GET 
+Description - Update specific product 
+API endpoint - {ROOT_URL}/api/product/{id} 
+Method - PUT 
+Description - Delete specific product 
+API endpoint - {ROOT_URL}/api/product/{id} 
+Method - DELETE 
+Description - Get all services 
+API endpoint - {ROOT_URL}/api/service 
+Method - GET 
+Description - Store services 
+API endpoint - {ROOT_URL}/api/service 
+Method - POST 
+Description - Get specific service 
+API endpoint - {ROOT_URL}/api/service/{id} 
+Method - GET 
+Description - Update specific service 
+API endpoint - {ROOT_URL}/api/service/{id} 
+Method - PUT 
+Description - Delete specific service 
+API endpoint - {ROOT_URL}/api/service/{id} 
+Method - DELETE 
